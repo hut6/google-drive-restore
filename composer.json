@@ -1,0 +1,13 @@
+{
+  "name": "hut6/google-drive-restore",
+  "require": {
+    "php": ">=5.2.1",
+    "symfony/console": "dev-master",
+    "google/apiclient": "~1.1.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Hut6\\": "src/"
+    }
+  }
+}
