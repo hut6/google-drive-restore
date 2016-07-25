@@ -14,6 +14,7 @@ In shared Google Drive folders, files aren't normally "deleted". They are remove
 	- https://www.googleapis.com/auth/admin.reports.usage.readonly 
 	- https://www.googleapis.com/auth/drive
 
+
 ## Usage
 
     $ composer install
@@ -34,3 +35,7 @@ the parent folder ID items were removed from. You can either manually compile th
 # Tasks
 
 1. Finish switching it to a proper Symfony Console app
+
+## CRANAplus
+
+There is a `credentials.json` file in 1Password named _CRANAplus IT Service Account_, which can be used.
