@@ -34,7 +34,8 @@ the parent folder ID items were removed from. You can either manually compile th
 
 # Tasks
 
-1. Finish switching it to a proper Symfony Console app
+- [x] Finish switching it to a proper Symfony Console app
+- [ ] Support untrashing documents trashed by their owner
 
 ## CRANAplus
 
