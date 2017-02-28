@@ -28,7 +28,8 @@ Check the output is what you want...
 ## Google Reports API
 
 Most of the information you want can by found in the audit report for Google Apps in the Drive area. However, it doesn't give you 
-the parent folder ID items were removed from. You can either manually compile the "activity log" that generates the right hand activity bar in the Google Drive web interface (which actually gives a lot of info). Or you can use the Google Reports API.
+the parent folder ID items were removed from. You can either manually compile the "activity log" that generates the right hand activity bar in the Google Drive web interface (which actually gives a lot of info). 
+Or you can use the Google Reports API (which is `php app.php query ...` here).
 
  - [Google Admin SDK](https://developers.google.com/admin-sdk/reports/v1/reference/) ([Activities:list](https://developers.google.com/admin-sdk/reports/v1/reference/activities/list))
 
